@@ -1,0 +1,112 @@
+.top_bar{background:#e7f1ff; font-size:24px; font-family:Kalinga; padding-top:30px; padding-bottom:10px;}
+.btn-danger{ background:#ff983b; padding:5px 40px 5px 40px;}
+
+.btn-larg{ background:#f9963c; padding:9px 15px 4px 16px; font-size:16px; color:#FFF;  margin-bottom:-15px;}
+.carousel-caption{left:-16%; padding-bottom:17px;}
+
+.custom_cousel{ padding-left:35%; margin-bottom:-15px;}
+. mid_text .carousel-caption a{padding-left:35%; margin-bottom:-15px;}
+.carousel-control .left { background-image:linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0,0,0,.0) 0%);}
+
+
+.nav_style{ background:#144071; padding-bottom:-25px;}
+.nav_style .row a{ color:#FFF;}
+.my_manu{ padding-left:230px; padding-right:30px;}
+.navbar-nav li a{ padding-right:46px;}
+
+.my_manu .navbar-default{ background:none; border:none;}
+.my_manu .navbar-nav .active a, .my_manu .navbar-nav .active a:hover{ background-color:#003b6e; color:#FFF;}
+.my_manu .navbar-nav li a:hover { background-color:#003b6e; color:#FFF;}
+
+
+.row h3{ color:#4b779f; padding-left:225px;}
+.row img{ color:#4b779f;}
+.mid_text { background:#e7f1ff; }
+.mid_text ol li { background:#003b6e; color:#003b6e; margin-top:20px; border-color:#003b6e;}
+.mid_text ol li:active { background:#003b6e;  margin-top:200px;}
+
+
+.mid_text p{ margin-bottom:22px; padding-left:225px; color:#84888f;}
+
+  .carousel-indicators {bottom:-25px;} 
+    .carousel-indicators .active { background-color:#003b6e;} 
+
+  
+.foter_css{ background:#7fa2c9; color:#FFF;}
+.foter_css h5  {padding-left:50;}
+.footer_manu hr { width:811px;  padding-right:0px; float:left; margin-left:0px;}
+.foter_css ul li{ padding-left:12px; border-bottom: 1px solid #FFF}
+
+
+.foter_css ul{ list-style:none; margin:0; padding:0;}
+.margen_top{ margin-top:27px;}
+.align_left{ text-align:left;}
+.social_icons{ background-image:#003b6e;}
+
+
+
+
+.envelop_css{ padding-right:0px; margin-top:25px; }
+.row button, input, optgroup, select, textarea{ background:#b1c6d9;}
+.btn-default{ background:#003b6e; color:#FFF; padding:3px;  margin:-5;}
+.btn{ border-radius:0; border:none;}
+
+.right_padding{ padding-right:372px;}
+.end_text{ margin-top:35px; }
+.end_text li{ margin-top:15px; padding-left:20px; font-size:10px;}
+.adjustment{ padding-left:50px;}
+
+.footer_manu{ padding-left:200px; padding-right:30px; color:#FFF;}
+.footer_manu .navbar-nav li a{ padding-right:18px; border-bottom:#b1c6d9;}
+
+.footer_manu .navbar-default{ background:none; border:none;}
+.footer_manu .navbar-nav .active a, .my_manu .navbar-nav .active a:hover{ background-color:#FFF; color:#FFF;}
+.footer_manu .navbar-nav li a:hover { background-color:inherit; color:inherit;}
+.footer_manu .navbar-nav a{ color:#FFF;}
+
+
+.navbar-default .navbar-nav >li > a{ color:#FFF;}
+@media (max-width :767px){
+.our_cources [class*="col-"]{ margin-bottom:35px;}
+.btn-danger{ background:#ff983b; padding:2px 40px 2px 40px; float:right;}
+.top_bar{background:#e7f1ff; font-size:20px; font-family:Kalinga; padding-top:30px; padding-bottom:10px; margin-left:5px;}
+.row button, input, optgroup, select, textarea{ background:#144071;}
+.navbar-default .navbar-toggle{ border:none;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle { color:#FFF;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{ background:#144071;}
+/*.my_manu{ height:51px;}*/
+.navbar-default .navbar-toggle .icon-bar{ background-color:#FFF;}
+.navbar{ margin-bottom:-8px; margin-left:-225px; margin-right:-15px}
+.my_manu ul { background-color:#e7f1ff; text-align:left;}
+.my_manu .navbar-nav li a{ border-bottom:1px solid #98bad8; color:#406f99;}
+
+
+
+
+
+
+
+}
+
+@media (max-width :1200px){
+	.my_manu .pull-right{ float:none !important;}}
+
+
+/*
+Navy Blue: #2C3E50;
+Navy Blue Active: #1A242F;
+Turquoise: #18BC9C;
+White: #FFFFFF;
+
+BTN Primary:#2C3E50;
+BTN Primary Hover:#1E2A36;
+BTN Primary Hover Boarder:#161F29;
+
+BTN Success:#18BC9C;
+BTN Success Hover:#13987E;
+BTN Success Hover Boarder:#11866F;
+
+BTN Default:#95A5A6;
+BTN Default Hover:#7F9293;
+BTN Default Hover Background: #74898A
+*/
