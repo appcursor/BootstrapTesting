@@ -73,7 +73,15 @@
 #footer-main{
     background-color: #FFF;
 }
-
+#social_icons
+{
+	float:right;
+}
+.container1
+{
+	width:1070px;
+	margin-left:200px;
+}
 #footer-sub .hr_line{ width:84%}
 
 #footer-sub h5{
