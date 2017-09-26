@@ -44,7 +44,15 @@
 .social_icons{ background-image:#003b6e;}
 
 
-#footer-sub  .navbar-nav  li a { padding-right:100px;margin-left: 30px;}
+#footer-sub  .navbar-nav  li a {     padding-right: 0px;
+    margin-left: 262px;
+	margin-top:-20px;
+    margin-right: -150px;
+    color:#FFF;  
+}
+#footer-sub p, strong{
+	color:#FFF;
+	}
 
 .envelop_css{ padding-right:0px; margin-top:25px; }
 .row button, input, optgroup, select, textarea{ background:#b1c6d9;}
@@ -82,7 +90,10 @@
 	width:1070px;
 	margin-left:200px;
 }
-#footer-sub .hr_line{ width:84%}
+#footer-sub .hr_line{ 
+width:69%;
+margin-left: 219px;
+}
 
 #footer-sub h5{
     color:#FFF;
