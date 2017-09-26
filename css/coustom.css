@@ -203,9 +203,19 @@ word-spacing: 25.78%;
 .my_manu ul { background-color:#e7f1ff; text-align:left;}
 .my_manu .navbar-nav li a{ border-bottom:1px solid #98bad8; color:#406f99;}
 
+ #footer-sub .navbar-nav {
+    float: left;
+    margin: 0;
+  }
+  #footer-sub .navbar-nav > li {
+    float: left;
+  }
+#footer-sub  .navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
 
-
-#footer-sub  .navbar-nav  li a { padding-right:63px;margin-left:0px;}
+#footer-sub  .navbar-nav  li a { padding-right:25px;margin-left:20px;}
 #footer-sub hr_line{ width:100%}
 
 }
